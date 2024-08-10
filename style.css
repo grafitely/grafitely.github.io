@@ -65,6 +65,15 @@ body{
     align-items: right;
 }
 
+.fa{
+    font-size: 100%;
+    color: rgb(92, 92, 92);
+}
+
+.fa:hover{
+    color: rgb(255, 255, 255);
+}
+
 #name{
     font-family: Impacto, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 20rem;
