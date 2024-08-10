@@ -59,9 +59,14 @@ body{
 .icons{
     position: absolute;
     left: 50%;
-    top: 80%;
+    top: 90%;
     width: 50%;
-    height: 20%;
+    height: 10%;
+    align-items: right;
+}
+
+.fa{
+    font-size: 10%;
 }
 
 #name{
