@@ -56,15 +56,6 @@ body{
     height: 80%;
 }
 
-.icons{
-    position: absolute;
-    left: 50%;
-    top: 90%;
-    width: 50%;
-    height: 10%;
-    align-items: right;
-}
-
 .fa{
     font-size: 100%;
     color: rgb(92, 92, 92);
@@ -73,6 +64,15 @@ body{
 
 .fa:hover{
     color: rgb(255, 255, 255);
+}
+
+.icons{
+    position: absolute;
+    left: 50%;
+    top: 90%;
+    width: 50%;
+    height: 10%;
+    align-items: right;
 }
 
 #name{
