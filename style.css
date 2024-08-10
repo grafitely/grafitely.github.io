@@ -58,6 +58,7 @@ body{
 
 .fa{
     color: rgb(92, 92, 92);
+    padding-right: 5%;
 }
 
 .fa:hover{
