@@ -58,7 +58,6 @@ body{
 
 .fa{
     color: rgb(92, 92, 92);
-    text-decoration: none;
 }
 
 .fa:hover{
@@ -71,6 +70,9 @@ body{
     top: 90%;
     width: 50%;
     height: 10%;
+}
+
+.sociallink{
     text-decoration: none;
 }
 
