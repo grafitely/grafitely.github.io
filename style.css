@@ -65,10 +65,6 @@ body{
     align-items: right;
 }
 
-.fa{
-    font-size: 10%;
-}
-
 #name{
     font-family: Impacto, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 20rem;
