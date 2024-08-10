@@ -53,6 +53,15 @@ body{
     left: 50%;
     top: 0%;
     width: 50%;
+    height: 80%;
+}
+
+.fa{
+    position: absolute;
+    left: 50%;
+    top: 80%;
+    width: 50%;
+    height: 20%;
 }
 
 #name{
