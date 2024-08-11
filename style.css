@@ -124,6 +124,16 @@ body{
         left: 0%
     }
 
+    .icons{
+        position: absolute;
+        left: 0%;
+        top: 180%;
+        text-align: center;
+        width: 100%;
+        font-size: 1.6vw;
+        
+    }
+
     #aboutme{
         font-size: 3.6vw;
     }
