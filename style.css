@@ -115,7 +115,7 @@ body{
     }
     .about{
        left: 0%;
-       top: 120%;
+       top: 105%;
        text-align: center;
        width: 100%;
        overflow:visible;
@@ -127,7 +127,7 @@ body{
     .icons{
         position: absolute;
         left: 0%;
-        top: 205%;
+        top: 190%;
         text-align: center;
         width: 100%;
         font-size: 1.6vw;
