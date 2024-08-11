@@ -57,12 +57,30 @@ body{
     overflow:hidden;
 }
 
-.fa{
+.fa-github{
     color: rgb(92, 92, 92);
     padding-right: 1%;
 }
 
-.fa:hover{
+.fa-youtube{
+    color: rgb(92, 92, 92);
+    padding-right: 1%;
+}
+
+.fa-twitch{
+    color: rgb(92, 92, 92);
+    padding-right: 1%;
+}
+
+.fa-github:hover{
+    color: rgb(255, 255, 255);
+}
+
+.fa-youtube:hover{
+    color: rgb(255, 255, 255);
+}
+
+.fa-twitch:hover{
     color: rgb(255, 255, 255);
 }
 
