@@ -77,6 +77,10 @@ body{
     text-decoration: none;
 }
 
+.arrow{
+    position: absolute;
+}
+
 #name{
     font-family: Impacto, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 20rem;
