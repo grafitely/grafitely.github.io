@@ -107,6 +107,37 @@ body{
     max-width: max-content;
 }
 
+@media screen and (max-width: 800px) {
+    .bigword{
+        text-align: center;
+        width: 100%;
+        max-width: none;
+    }
+    .about{
+       left: 0%;
+       top: 120%;
+       text-align: center;
+       width: 100%;
+       overflow:visible;
+    }
+    .bigword::after{
+        left: 0%
+    }
+
+    #aboutme{
+        font-size: 3.6vw;
+    }
+
+    #name{
+        font-size: 25vw;
+    }
+
+    #nameprecursor{
+        font-size: 10vw;
+    }
+   
+  }
+
 @font-face {
     font-family: Impacto;
     font-weight: bold;
