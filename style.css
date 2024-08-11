@@ -108,6 +108,10 @@ body{
 }
 
 @media screen and (max-width: 800px) {
+    .greeting{
+        top: 300px
+    }
+
     .bigword{
         text-align: center;
         width: 100%;
