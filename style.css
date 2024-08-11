@@ -99,6 +99,10 @@ body{
 
 .arrow{
     position: absolute;
+    color: purple;
+    top: 90%;
+    width: 100%;
+    font-size: 0.8vw;
 }
 
 #name{
