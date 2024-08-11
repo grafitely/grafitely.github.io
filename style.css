@@ -161,6 +161,11 @@ body{
         
     }
 
+    .arrow{
+        position:relative;
+        font-size: 1.6vw;
+    }
+
     #aboutme{
         font-size: 3.6vw;
     }
