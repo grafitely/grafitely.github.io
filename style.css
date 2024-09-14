@@ -99,7 +99,7 @@ body{
 
 .arrow{
     position: absolute;
-    color: purple;
+    color: rgb(255, 255, 255);
     top: 90%;
     width: 100%;
     font-size: 0.8vw;
