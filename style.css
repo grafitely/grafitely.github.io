@@ -54,6 +54,10 @@ body{
     width: 100%;
 }
 
+.smallTitle{
+    margin:3%;
+}
+
 .codelink:link, .codelink:visited{
     border-radius: 5px;
     padding: 10px 10px;
