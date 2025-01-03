@@ -250,7 +250,12 @@ body{
     #nameprecursor{
         font-size: 10vw;
     }
-   
+  }
+
+  @media screen and (max-width: 600px) {
+    .project{
+        width:80%;
+    }
   }
 
 @font-face {
