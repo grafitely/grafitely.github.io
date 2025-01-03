@@ -254,8 +254,8 @@ body{
 
   @media screen and (max-width: 600px) {
     .project{
-        height: 100vw;
-        width: 90%;
+        height: 90vw;
+        width: 80%;
         background-color: #111111;
     }
   }
