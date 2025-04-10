@@ -138,6 +138,7 @@ body{
 }
 
 .fa-angles-down{
+    position: absolute;
     top: 30%;
 }
 
